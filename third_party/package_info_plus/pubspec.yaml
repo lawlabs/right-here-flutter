@@ -1,0 +1,7 @@
+name: package_info_plus
+description: Заглушка без Android-плагина. Настоящий пакет на AGP 9 не собирается.
+publish_to: none
+version: 0.0.1
+
+environment:
+  sdk: ^3.12.2
